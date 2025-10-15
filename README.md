@@ -17,7 +17,7 @@ A complete overhaul of the Mythic Framework phone system with a modern interface
 A real-time business directory that revolutionizes how players find services:
 - **Live Business Tracking** - See all active businesses with on-duty employees
 - **Smart Search** - Quickly find the services you need
-- **Police Department Breakdown** - Special tracking for LSPD (Blue), BCSO (Brown), and SASP (Grey)
+- **Police Department Breakdown** - Special tracking for LSPD, BCSO, and SASP
 - **50+ Business Icons** - Unique icons for mechanics, restaurants, bars, shops, and more
 - **Last Updated Timestamp** - Know when data was refreshed
 - **Zero Configuration** - Automatically pulls from mythic-jobs
