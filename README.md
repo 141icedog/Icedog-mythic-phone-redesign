@@ -20,7 +20,7 @@ A real-time business directory that revolutionizes how players find services:
 - **Police Department Breakdown** - Special tracking for LSPD, BCSO, and SASP
 - **50+ Business Icons** - Unique icons for mechanics, restaurants, bars, shops, and more
 - **Last Updated Timestamp** - Know when data was refreshed
-- **Zero Configuration** - Automatically pulls from mythic-jobs
+- **Zero Configuration** - Automatically pulls from mythic-jobs (icons may require config)
 
 ### **Enhanced Features**
 - Improved performance and load times
@@ -34,7 +34,7 @@ A real-time business directory that revolutionizes how players find services:
 ### **City Services App**
 - **Real-Time Updates** - Refresh to see current business activity
 - **Employee Counts** - Know how many staff are working
-- **Department Tracking** - Police shows Officers, Deputies, and Troopers separately
+- **Department Tracking** - Police shows Officers, Deputies, and Troopers 
 - **Pattern Matching** - Automatically categorizes businesses with appropriate icons
 - **Search Functionality** - Filter businesses instantly
 - **Empty State Handling** - Clear messaging when no businesses are active
@@ -86,7 +86,7 @@ A real-time business directory that revolutionizes how players find services:
 
 4. **Restart your server**
    ```
-   restart mythic-phone
+   restart server through Tx or other options
    ```
 
 That's it! The City Services app will automatically detect jobs from mythic-jobs.
@@ -202,4 +202,4 @@ If you like this redesign, please star the repository and share it with others!
 
 ---
 
-**Made with ❤️ for the mythic-framework community**
+**Made for the mythic-framework community**
